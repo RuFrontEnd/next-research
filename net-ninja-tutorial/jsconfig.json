@@ -1,0 +1,10 @@
+// 修正後記得重啟 server
+// 絕對路徑設置 => https://nextjs.org/docs/advanced-features/module-path-aliases
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/components/*": ["components/*"]
+    }
+  }
+}
