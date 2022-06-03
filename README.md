@@ -1,2 +1,2 @@
-# nextJs_research
-nextJs_research
+# next.js-research
+next.js 學習
