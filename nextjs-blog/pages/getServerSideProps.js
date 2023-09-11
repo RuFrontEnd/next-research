@@ -1,4 +1,3 @@
-// 根據 Next.js 官方說明，如果需要每次使用者瀏覽網頁時，伺服器都能呼叫 API，將最新的資料都注入到 HTML，則可以選擇使用 getServerSideProps
 // 如果需要每次使用者瀏覽網頁時，伺服器都能呼叫 API，將最新的資料都注入到 HTML，則可以選擇使用 getServerSideProps
 import Head from 'next/head';
 
